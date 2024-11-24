@@ -1,0 +1,16 @@
+.ui-input{
+    padding: 0.6rem;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: all 0.6s;
+    width: 100%;
+}
+.ui-input:hover{
+    border-color: #165ef0;
+
+}
+.ui-input:focus{
+    border-color: #165ef0;
+}
